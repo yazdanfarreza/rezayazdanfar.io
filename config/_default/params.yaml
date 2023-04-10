@@ -15,11 +15,11 @@ appearance:
 
 marketing:
   seo:
-    site_type: Person
+    site_type: Organization
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    org_name: 'Reza Yazdanfar'
+    description: "Reza Yazdanfar is a Machine Learning Engineer, find information about his skills, experience and recent blog posts and publications here."
+    twitter: 'reza__yazdanfar'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
