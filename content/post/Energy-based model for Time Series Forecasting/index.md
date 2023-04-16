@@ -15,7 +15,7 @@ categories:
 external_link: https://medium.datadriveninvestor.com/energy-based-model-time-series-forecasting-1a94e5817d0e
 
 projects: []
-date: '2023-02-05T00:00:00Z'
+date: '2023-02-023T00:00:00Z'
 image:
   caption: ''
   focal_point: ''
